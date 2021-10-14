@@ -11,7 +11,8 @@
       "name": "ali"
     }
   ],
-  "profile": {
+  "profile": [
+    {
     "title": "",
     "id": 1,
     "name": "typicode"
@@ -28,5 +29,5 @@
       "title": "hell",
       "name": "ali"
     }
-}
+    ]
 
