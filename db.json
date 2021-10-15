@@ -1,3 +1,6 @@
 {
-  "main":{"temp":32.99,"feels_like":31.59,"temp_min":31.06,"temp_max":32.99}
+  "main":{
+    "firstName":"Umair",
+    "secondName":"Ashraf",
+    "fullName":"UmairAshraf"}
 }
