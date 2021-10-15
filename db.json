@@ -1,6 +1,12 @@
 {
-  "main":{
+  "myInfo":{
     "firstName":"Umair",
     "secondName":"Ashraf",
-    "fullName":"Umair Ashraf"}
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf"
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  }
 }
