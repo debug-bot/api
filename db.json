@@ -1,33 +1,3 @@
 {
-  "umair": [
-    {
-      "id": 1,
-      "title": "hello",
-      "name": "umair"
-    },
-    {
-      "id": 2,
-      "title": "hell",
-      "name": "ali"
-    }
-  ],
-  "profile": [
-    {
-    "title": "",
-    "id": 1,
-    "name": "typicode"
-    
-   
-  },
-  {
-      "id": 3,
-      "title": "hello",
-      "name": "umair"
-    },
-    {
-      "id": 2,
-      "title": "hell",
-      "name": "ali"
-    }
-    ]
+  "main":{"temp":32.99,"feels_like":31.59,"temp_min":31.06,"temp_max":32.99}
 }
