@@ -1,5 +1,5 @@
 {
-  "myInfo":{
+  "myInfo":[{
     "firstName":"Umair",
     "secondName":"Ashraf",
     "fullName":"Umair Ashraf",
@@ -9,6 +9,76 @@
     "email": "umair.dco@gmail.com",
     "countryName": "Pakistan",
     "cityName": "Faisalabad"
-  }
+  },{
+    "firstName":"Ali",
+    "secondName":"Aslam",
+    "fullName":"Ali Aslam",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },{
+    "firstName":"Asad",
+    "secondName":"Ashraf",
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },{
+    "firstName":"Umair",
+    "secondName":"Ashraf",
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },{
+    "firstName":"Umair",
+    "secondName":"Ashraf",
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },{
+    "firstName":"Umair",
+    "secondName":"Ashraf",
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },{
+    "firstName":"Umair",
+    "secondName":"Ashraf",
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },{
+    "firstName":"Anas",
+    "secondName":"Ashraf",
+    "fullName":"Umair Ashraf",
+    "fatherName": "Ashraf",
+    "age": "17",
+    "gender": "Male",
+    "email": "umair.dco@gmail.com",
+    "countryName": "Pakistan",
+    "cityName": "Faisalabad"
+  },]
   
 }
