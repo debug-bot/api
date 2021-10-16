@@ -4,12 +4,11 @@
     "secondName":"Ashraf",
     "fullName":"Umair Ashraf",
     "fatherName": "Ashraf",
+    "age": "17",
     "gender": "Male",
     "email": "umair.dco@gmail.com",
     "countryName": "Pakistan",
     "cityName": "Faisalabad"
-  },
-  "helo":{
-    "hello":"hello"
   }
+  
 }
